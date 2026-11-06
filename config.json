@@ -7,7 +7,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "flow",
+  "theme": "cards",
   "css": "./custom.css",
   "footer": "Contact : ateliers-snom@gmail.com",
   "usage-stats": false
