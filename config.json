@@ -3,7 +3,7 @@
   "output": "./build_output",
   "title": "Animations Voix d'Etoiles 2026",
   "sort-albums-by": "start-date",
-  "sort-media-by": "filename",
+  "sort-media-by": "start-date",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
