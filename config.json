@@ -9,6 +9,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Contact : ateliers.snom@gmail.com",
+  "footer": "Contact : ateliers.snom@gmail.com<br><small class=\"legal-notice\">Mentions légales : Atelier d'animation Voix d'Etoiles 2026 · Hébergement : GitHub Pages</small>",
   "usage-stats": false
 }

@@ -51,3 +51,11 @@ header h1 a {
 	line-height: 0;
 	background: url("../gallery-header.jpg") center / contain no-repeat;
 }
+
+footer .legal-notice {
+	display: block;
+	margin-top: 0.4rem;
+	font-size: 0.7rem;
+	font-style: normal;
+	line-height: 1.4;
+}
