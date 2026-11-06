@@ -8,6 +8,11 @@ a[download] {
 	display: none !important;
 }
 
+.lg-info,
+.lg-exif {
+	display: none !important;
+}
+
 #albums {
 	display: flex;
 	flex-wrap: wrap;
