@@ -9,7 +9,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Contact : ateliers.snom@gmail.com<br><small class=\"legal-notice\">Mentions légales : Atelier d'animation Voix d'Etoiles 2026 · Hébergement : GitHub Pages </small>",
-<br><small class=\"legal-notice\"> Le site Atelier d'animation Voix d'Etoiles 2026 est édité par: Sarah Naciri Toute utilisation, reproduction, diffusion, commercialisation, modification de toute ou partie du site Atelier d'animation Voix d'Etoiles 2026, sans autorisation expresse de l'éditeur, est prohibée et pourra entraîner des actions et poursuites judiciaires telles que notamment prévues par le Code de la propriété intellectuelle et le Code civil. </small>",
+  "footer": "Contact : ateliers.snom@gmail.com<br><small class=\"legal-notice\">Site édité par Sarah Naciri pour Voix d'Etoiles 2026 · Hébergement : GitHub Pages Toute utilisation, reproduction, diffusion, commercialisation, modification de toute ou partie du site Atelier d'animation Voix d'Etoiles 2026, sans autorisation expresse de l'éditeur, est prohibée et pourra entraîner des actions et poursuites judiciaires telles que notamment prévues par le Code de la propriété intellectuelle et le Code civil. </small>",
   "usage-stats": false
 }
