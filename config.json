@@ -3,12 +3,11 @@
   "output": "./build_output",
   "title": "Atelier d'animation Voix d'Etoiles 2026",
   "sort-albums-by": "start-date",
-  "album-previews": "random"
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Contact : ateliers-snom@gmail.com",
+  "footer": "Contact : ateliers.snom@gmail.com",
   "usage-stats": false
 }
