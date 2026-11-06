@@ -2,6 +2,31 @@
 	display: none !important;
 }
 
+#albums {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#albums > a[href*="mercredi" i] {
+	order: 1;
+}
+
+#albums > a[href*="jeudi" i] {
+	order: 2;
+}
+
+#albums > a[href*="vendredi" i] {
+	order: 3;
+}
+
+#albums > a[href*="projection" i] {
+	order: 4;
+}
+
+#albums > a[href*="coulisses" i] {
+	order: 5;
+}
+
 header h1 a {
 	color: #0040ff !important;
 }
