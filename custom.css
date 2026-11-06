@@ -1,7 +1,7 @@
 #albums .date {
-	display: none;
+	display: none !important;
 }
 
 header h1 a {
-	color: #0040ff;
+	color: #0040ff !important;
 }
