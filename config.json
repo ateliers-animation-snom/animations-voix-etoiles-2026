@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Animations Voix d'Etoiles 2026",
+  "title": "Atelier d'animation Voix d'Etoiles 2026",
   "sort-albums-by": "start-date",
   "sort-media-by": "filename",
   "download-photos": "copy",
